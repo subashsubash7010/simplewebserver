@@ -95,7 +95,7 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-
-![alt text](<Screenshot 2024-11-24 205754.png>)
+![alt text](<Screenshot 2024-11-24 211602.png>)
+![alt text](<Screenshot 2024-11-24 211602.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
