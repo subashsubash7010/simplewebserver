@@ -1,6 +1,3 @@
-from http.server import HTTPServer,BaseHTTPRequestHandler
-
-content=
 <!doctype html>
 <html>
 <head>
@@ -20,19 +17,19 @@ content=
             device name
         </td>
         <td>
-            LAPTOP-5JU1LOO5
+            subash
         </td>
     </tr>
     <tr>
         <td>processor
         </td>
-        <td>12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz
+        <td>AMD Ryzen 7 7435 HS
         </td>
     <tr>
         <td>Installed RAM
         </td>
         <td>
-            16.0 GB (15.7 GB usable)
+            16.0 GB (15.8 GB usable)
         </td>
     </tr>
     <tr>
@@ -40,14 +37,14 @@ content=
             Device ID
         </td>
         <td>
-            13CCFA21-805B-4552-B107-ACD99522EF55
+            ABB73E06-F358-4E25-90B3-4221AC47C913
         </td>
     </tr>
     <tr>
         <td>
             Product ID
         </td>
-        <td>00342-42684-23673-AAOEM</td>
+        <td>00342-42702-88379-AAOEM</td>
     </tr>
     <tr>
         <td>
